@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "css.validate": false,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.insertSpaces": true,
+  "eslint.autoFixOnSave": true,
+  "explorer.autoReveal": false,
+  "explorer.openEditors.visible": 0,
+  "javascript.validate.enable": false,
+  "search.exclude": {
+    ".data": true,
+    "**/fixtures": true,
+    "**/json-fixtures": true,
+    "**/node_modules": true,
+    "**/public/assets": true,
+    "**/logs": true
+  },
+  "sortImports.onSave": false,
+  "window.openFilesInNewWindow": false,
+  "window.zoomLevel": 0
+}
