@@ -1,0 +1,19 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "shift+cmd+\\",
+    "command": "workbench.files.action.showActiveFileInExplorer"
+  },
+  {
+    "key": "shift+cmd+a",
+    "command": "workbench.action.files.newFile"
+  },
+  {
+    "key": "ctrl+shift+cmd+a",
+    "command": "workbench.action.files.newFolder"
+  },
+  {
+    "key": "shift+cmd+s",
+    "command": "workbench.action.files.saveAll"
+  }
+]
